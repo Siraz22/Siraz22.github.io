@@ -304,7 +304,7 @@ a {
       left: 0;
       height: 2px;
       width: 50px;
-      background: #dfdfdf;
+      background: #ff0000;
       z-index: -1; }
   .section-heading.text-center h2:before {
     left: 50%;
